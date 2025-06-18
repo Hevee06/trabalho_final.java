@@ -1,2 +1,2 @@
 # trabalho_final.java
-Controle do trabalho final de java
+Controle de versionamento do trabalho final de java
